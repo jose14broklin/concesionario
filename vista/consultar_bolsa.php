@@ -3,6 +3,8 @@
 <head>
 	<title>concesionario web</title>
 	<link rel="stylesheet" type="text/css" href="../estilos/w3.css">
+	<link rel="stylesheet" type="text/css" href="../estilos/styles.css">
+	
 	<script>
 
 		function calcular(formulario){

@@ -2,6 +2,7 @@
 <head>
 	<title>categoria</title>
 	<link rel="stylesheet" type="text/css" href="../estilos/w3.css">
+	<link rel="stylesheet" type="text/css" href="../estilos/styles.css">
 </head>
 <body style="width: 50%; margin: auto; background-image:url(../imagenes/cyber.jpg) ;" class=" w3-padding w3-text-black">
 

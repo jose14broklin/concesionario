@@ -3,6 +3,8 @@
 <head>
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="../estilos/w3.css">
+	<link rel="stylesheet" type="text/css" href="../estilos/styles.css">
+	
 </head>
 <body style=" margin: auto; background-image:url(../imagenes/carro.jpg) ;" class=" w3-padding w3-text-yellow">
 
